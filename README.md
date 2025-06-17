@@ -1,6 +1,6 @@
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center">Hi there! 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋, I'm [NOVEBRIAN SETYA PURWANTO]</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+Fullstack+Web+and+Mobile+Developer;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
