@@ -17,7 +17,7 @@
 - 🌱 Currently learning: `React.js`, `Flask`, `Django`, `Kotlin`, and more!
 - 💡 I love building scalable web and mobile applications.
 - 📫 How to reach me: [novebrian211@gmail.com](mailto:novebrian211@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio](novebriansp.github.io/Portfolio)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio]([novebriansp.github.io/Portfolio](https://novebriansp.github.io/Portfolio/?fbclid=PAZXh0bgNhZW0CMTEAAaf6ZFz6BK7FsZWl8yfTLzynxeNpQdLuYrJvTBlOMa8sWq9vlq7qDBgaN4_6Rg_aem_i2C34rIhbnj1cdB0eO7c_A))
 
 ---
 
@@ -72,7 +72,7 @@
 <p align="left">
   <a href="mailto:novebrian211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/novebrian-setya-purwanto-026717273//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="novebriansp.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://novebriansp.github.io/Portfolio/?fbclid=PAZXh0bgNhZW0CMTEAAaf6ZFz6BK7FsZWl8yfTLzynxeNpQdLuYrJvTBlOMa8sWq9vlq7qDBgaN4_6Rg_aem_i2C34rIhbnj1cdB0eO7c_A"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
