@@ -17,7 +17,7 @@
 - 🌱 Currently learning: `React.js`, `Flask`, `Django`, `Kotlin`, and more!
 - 💡 I love building scalable web and mobile applications.
 - 📫 How to reach me: [novebrian211@gmail.com](mailto:novebrian211@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio]([novebriansp.github.io/Portfolio](https://novebriansp.github.io/Portfolio/?fbclid=PAZXh0bgNhZW0CMTEAAaf6ZFz6BK7FsZWl8yfTLzynxeNpQdLuYrJvTBlOMa8sWq9vlq7qDBgaN4_6Rg_aem_i2C34rIhbnj1cdB0eO7c_A))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio](novebriansp.github.io/Portfolio)
 
 ---
 
