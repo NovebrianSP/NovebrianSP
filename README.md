@@ -61,7 +61,7 @@
 
 ### 🚀 Featured Projects
 
-- [Mushroom Classification App 🍄](https://github.com/NovebrianSP/mushroom-streamlit-app)  
+- [Mushroom Classification App 🍄](https://github.com/NovebrianSP/agaricus-lepiota)  
   <sub>Streamlit app for classifying edible and poisonous mushrooms using machine learning.</sub>
 
 ---
