@@ -63,8 +63,6 @@
 
 - [Mushroom Classification App 🍄](https://github.com/NovebrianSP/mushroom-streamlit-app)  
   <sub>Streamlit app for classifying edible and poisonous mushrooms using machine learning.</sub>
-- [Other Project Name](https://github.com/NovebrianSP/other-project)  
-  <sub>Short description of your other project.</sub>
 
 ---
 
