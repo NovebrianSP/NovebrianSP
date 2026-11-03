@@ -13,12 +13,12 @@
 - 🎓 I’m a passionate **Fullstack Web Developer** and **Mobile Developer**.
 - 💻 Experienced with:  
   &nbsp;&nbsp;&nbsp;&nbsp;• **Backend:** PHP (Laravel, CodeIgniter), Python (Flask, Django)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• **Frontend:** HTML, CSS, JavaScript (React.js)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• **Mobile:** Kotlin (Android)
-- 🌱 Currently learning: `React.js`, `Flask`, `Django`, `Kotlin`, and more!
+  &nbsp;&nbsp;&nbsp;&nbsp;• **Frontend:** HTML, CSS (Bootstrap, Tailwind), JavaScript (Next.js)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• **Mobile:** Kotlin and Flutter (Android)
+- 🌱 Currently learning: `Next.js`, `Flask`, `Django`, `Kotlin`, `Flutter`, and more!
 - 💡 I love building scalable web and mobile applications.
 - 📫 How to reach me: [novebrian211@gmail.com](mailto:novebrian211@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio](https://novebriansp.github.io/Portfolio)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/) | [Portfolio](https://brian-duckyfolio.vercel.app/)
 
 ---
 
@@ -43,26 +43,108 @@
 
 ---
 
+### 🌐 Web Development
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>Building useful digital experiences</h4>
+      <p>I build responsive, accessible, and scalable web applications from the database to the user interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>What I focus on</h4>
+      <p>⚡ Clean UI &nbsp; • &nbsp; 🔧 Reliable backend<br>📱 Responsive design &nbsp; • &nbsp; 🚀 Performance</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📱 Mobile Development
 
-- Building native Android apps using **Kotlin**
-- Familiar with Android Studio and modern Android development practices
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>From idea to mobile app</h4>
+      <p>Building native Android and cross-platform applications with a focus on simple flows and practical user experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>My approach</h4>
+      <p>🎯 Intuitive interfaces<br>📐 Adaptive layouts<br>🧩 Maintainable components</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovebrianSP&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovebrianSP&layout=compact&theme=tokyonight" alt="Top Langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=NovebrianSP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovebrianSP&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NovebrianSP&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF7B72&currStreakLabel=36BCF7" alt="GitHub Contribution Streak" width="70%">
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- [Mushroom Classification App 🍄](https://github.com/NovebrianSP/agaricus-lepiota)  
-  <sub>Streamlit app for classifying edible and poisonous mushrooms using machine learning.</sub>
+<p align="center">
+  A selection of projects where I turn ideas into useful web, mobile, and data-driven experiences.
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🍄 Mushroom Classification</h3>
+      <p>Streamlit dashboard that explores mushroom data and predicts whether a mushroom is edible or poisonous.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Random%20Forest-2F855A?style=flat-square" alt="Random Forest"/>
+      </p>
+      <a href="https://github.com/NovebrianSP/agaricus-lepiota"><strong>View project →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📍 Locatour</h3>
+      <p>Tourism directory and location discovery platform with category-based browsing for finding destinations more easily.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+      <a href="https://github.com/NovebrianSP/locatour"><strong>View project →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💧 Aquamass</h3>
+      <p>Minimalist fluid-tracking app that calculates and monitors daily water intake based on body mass.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile"/>
+      </p>
+      <a href="https://github.com/NovebrianSP/aquamass"><strong>View project →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/NovebrianSP?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
 
 ---
 
@@ -71,7 +153,7 @@
 <p align="left">
   <a href="mailto:novebrian211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/novebrian-setya-purwanto-026717273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://novebriansp.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://brian-duckyfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
