@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I’m a passionate **Fullstack Web Developer** and **Mobile Developer**.
+- 🏅 **Cum Laude undergraduate** in **Information Systems** from **Universitas Amikom Yogyakarta**, with a **3.96/4.0 GPA**.
 - 💻 Experienced with:  
   &nbsp;&nbsp;&nbsp;&nbsp;• **Backend:** PHP (Laravel, CodeIgniter), Python (Flask, Django)  
   &nbsp;&nbsp;&nbsp;&nbsp;• **Frontend:** HTML, CSS (Bootstrap, Tailwind), JavaScript (Next.js)  
