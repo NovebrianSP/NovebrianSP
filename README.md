@@ -92,8 +92,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NovebrianSP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovebrianSP&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovebrianSP&theme=tokyonight" alt="GitHub Profile Summary" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NovebrianSP&theme=tokyonight" alt="Repositories per Language" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NovebrianSP&theme=tokyonight" alt="Most Used Languages by Commit" width="45%">
 </p>
 
 <p align="center">
